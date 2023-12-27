@@ -35,13 +35,25 @@ Before running the script, ensure you have a valid VirusTotal API key and provid
 Credits
 
 
-
 ## Disclaimer
 
 This script is provided as-is, without any warranty, expressed or implied. The authors or contributors shall not be held liable for any damages arising from the use of this script. Use at your own risk.
 
 The script is intended for educational and informational purposes only. Users are responsible for ensuring the legality and appropriateness of its use in their specific context or jurisdiction. This script should not be used for any malicious or unlawful activities.
 
+
+## Future Updates
+
+We are committed to improving this script by implementing new features and enhancements. Expect updates in the future, which may include:
+
+- Additional URL masking options.
+- Improved error handling and user feedback.
+- Integration with other security APIs for enhanced URL analysis.
+- Compatibility enhancements and bug fixes.
+
+Your feedback and suggestions are welcome! Feel free to open an issue or reach out with ideas for improvements or new features you'd like to see in future versions.
+
+Stay tuned for updates!
 
     Developed by [Wilecurity]
   
