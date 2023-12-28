@@ -53,6 +53,4 @@ We are committed to improving this script by implementing new features and enhan
 
 Your feedback and suggestions are welcome! Feel free to open an issue or reach out with ideas for improvements or new features you'd like to see in future versions.
 Stay tuned for updates!
-
-    Developed by [Wilecurity]
   
