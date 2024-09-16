@@ -48,5 +48,3 @@ We are actively working on enhancing Maskurl-Detect. Upcoming updates include:
 Feel free to **contribute**, **suggest features**, or **report issues**. We appreciate your support!
 
 ---
-
-This version is streamlined for readability and clarity, with a more engaging structure that will appeal to your audience. What do you think?
