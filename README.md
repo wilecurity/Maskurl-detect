@@ -1,4 +1,3 @@
-Here's an improved version of the README for your GitHub repository:
 
 ---
 
