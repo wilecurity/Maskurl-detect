@@ -20,7 +20,7 @@ Maskurl-detect provides a convenient way to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wil-Red/Maskurl-detect.git
+  https://github.com/wilecurity/Maskurl-detect.git
 
 
 2. pip install -r requirements.txt
